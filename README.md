@@ -1,4 +1,4 @@
-Hello! I’m Clare and my journey into tech began at Moringa School. I mastered Full Stack Development after several enriching years in project management.
+Hello! I’m Clare and my journey into tech began at Moringa School. I learned Full Stack Development after several enriching years in project management.
 
 On the frontend, I'm probably building with JavaScript and React. On the backend, it's probably Python, Flask, and Django.
 
